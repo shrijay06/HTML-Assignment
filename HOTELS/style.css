@@ -1,0 +1,23 @@
+body{
+    background-color:#F6F7C1;
+}
+
+.center {
+    text-align: center;
+    border-top: 0ch;
+    
+}
+
+
+#header{
+    border-top: 0cap;
+    padding-top: 0%;
+    height: 70px;  
+}
+
+hr {
+   border: 1px solid black;
+   
+}
+
+
